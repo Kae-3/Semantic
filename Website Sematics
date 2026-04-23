@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Help</a></li>
+            </ul>
+        </nav>
+    </header>    
+    <section>
+        <article>
+            <h1>Economical and Financial Stability</h1>
+            <p>This is a website that enlightens about the importance of econmical and financial stability.
+                <br>Showing how best one can benefit from it, and effective methods taken to avoid negative impacts in one's life.
+
+            </p>
+        </article>
+    </section>
+    <figure>
+        <img src="https://www.shutterstock.com/image-vector/economic-growth-financial-stability-achieved-260nw-2660376229.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 476px; height: 210px; margin: 0px; width: 357px;" alt="Economic Growth Financial Stability Achieved Through Stock Vector (Royalty  Free) 2660376229 | Shutterstock" jsname="kn3ccd">
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/023/882/101/small/businessman-vecter-balancing-without-fail-walking-on-gold-coins-financial-and-business-risks-bank-loans-and-debts-stability-or-balance-of-economics-and-investment-or-the-risk-of-losing-a-job-concept-vector.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 525px; height: 238px; margin: 0px; width: 357px;" alt="Financial Stability Vector Art, Icons, and Graphics for Free Download" jsname="kn3ccd">
+    </figure>
+    <footer>
+        <p>&copy; 2026 Eco Corps - <I>Economics and Finance</I>
+        </p>
+    </footer>
+</body>
+</html>
