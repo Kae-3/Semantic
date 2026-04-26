@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body{
+            background-color: gray
+        }
+    </style>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <article>
+            <h1>POVERTY ERADICATION</h2>
+                <p style="color: beige;">This website is dedicated to promoting practical solutions for poverty eradication in everyday communities.
+It shares ideas, resources, and real-life strategies that empower individuals to improve their economic well-being.
+By connecting people to opportunities in education, skills, and support networks, it aims to create lasting change.
+Its core mission is to inspire action and build a future where everyone has a fair chance to thrive.</p>
+        </article>
+    </section>
+
+    <figure>
+        <img src="https://pmexpressng.com/wp-content/uploads/2022/12/eradicate-poverty1.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 984px; height: 127px; margin: 14px 0px; width: 357px;" alt="Poverty Eradication: We Need Big Ideas, Not Buckpassing - P.M.EXPRESS" jsname="kn3ccd">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQHnp5vywupo2yfDBMwr4bqgD_32NWt-qBQ&amp;s" class="sFlh5c FyHeAf" alt="Poverty Eradication Programs of AIM. | Download Scientific Diagram" jsname="JuXqh" style="max-width: 627px; height: 202px; margin: 0px; width: 355px;" data-ilt="1777215358673">
+    </figure>
+    <footer>
+        <p>&copy; 2026 PEP - <I>Poverty Eradication Programme</I>
+        </p>
+    </footer>
+</body>
+</html>
